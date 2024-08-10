@@ -1,9 +1,10 @@
 #  object-detection-aws-rekognition-tutorial
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=J7gFN0GqU7M">![Uploading Untitled design.png…]()
+<a href="https://www.youtube.com/watch?v=J7gFN0GqU7M">
 
-    </br>Watch on YouTube: AWS Rekognition tutorial | Object detection
+    ![Untitled design](https://github.com/user-attachments/assets/6e018a40-870c-4d5e-b1f3-ac3d98a59f25)
+
 </a>
 </p>
 
